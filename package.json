@@ -1,0 +1,11 @@
+{
+  "name": "marketplaceNFT",
+  "version": "1.0.0",
+  "description": "tuto marketplace de nfts",
+  "main": "index.js",
+  "author": "Stephane Spassevitch",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^9.0.1"
+  }
+}
